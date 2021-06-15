@@ -57,7 +57,7 @@ Except in the <option>--command=</option> form, this must be the last option on 
       </varlistentry>
       <varlistentry>	<term>	  <option>-h</option>
 	  <option>--help</option>
-	</term>fixes
+	</term>
 	<listitem>	  <para>Prints a short help message, and exit.</para>
 	</listitem>
       </varlistentry>
