@@ -70,7 +70,7 @@ Except in the <option>--command=</option> form, this must be the last option on 
       <varlistentry>	<term>	  <option>-T <replaceable>NAME</replaceable></option>
 	  <option>-t <replaceable>NAME</replaceable></option>
 	  <option>--title=<replaceable>NAME</replaceable></option>
-	  <option>--tabs=<replaceable>NAME[,NAME[,NAME[...]]]</replaceable></option>
+	  <option>--tabs=<replaceable>NAME,NAME[,NAME[...]]</replaceable></option>
 	</term>
 	<listitem>	  <para>Set the terminal's title. Comma separated multiple titles create multiple tabs only with the <option>--tabs=</option> form.</para>
 	</listitem>
